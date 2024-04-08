@@ -130,3 +130,21 @@ dist
 .pnp.*
 
 .idea
+
+# Nuxt dev/build outputs
+.output
+.data
+.nitro
+
+# Node dependencies
+node_modules
+
+
+# Misc
+.DS_Store
+.fleet
+
+# Local env files
+.env.*
+!.env.example
+
