@@ -1,0 +1,6 @@
+.idea
+.nuxt
+.output
+node_modules
+*.json
+*.md

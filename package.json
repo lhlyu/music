@@ -1,5 +1,6 @@
 {
   "name": "music",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -7,11 +8,16 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "fmt": "prettier --write ."
   },
   "dependencies": {
+    "@nuxt/ui-pro": "^1.1.0",
     "nuxt": "^3.11.2",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
   }
 }
