@@ -13,3 +13,4 @@
 - [Nuxt3参考项目](https://github.com/Atinux/nuxt-todos-edge)
 - [使用的UI](https://ui.nuxt.com/pro)
 - [使用的ICON](https://icones.js.org/collection/heroicons)
+- [音乐播放器](https://github.com/DIYgod/APlayer)

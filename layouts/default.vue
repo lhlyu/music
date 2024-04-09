@@ -39,8 +39,8 @@ const menus = [
         id: 'favorite',
         label: '我的最爱',
         icon: 'i-heroicons-heart',
-        to: '/favorite',
-        badge: '40'
+        to: '/favorite'
+        // badge: '40'
     },
     {
         id: 'history',
